@@ -137,13 +137,13 @@ export default function Navbar() {
               href="/shop/eid-festive"
               className="text-sm font-semibold text-amber-600 hover:text-amber-700 transition flex items-center gap-1"
             >
-              Eid Edit 🌙
+              Winter
             </Link>
             <Link
               href="/shop/sale"
               className="text-sm font-semibold text-rose-600 hover:text-rose-700 transition"
             >
-              Sale 🔥
+              Sale
             </Link>
           </nav>
 
